@@ -2,9 +2,10 @@
 An Unreal Engine 5 project, a 5v5 Player V/S Player (PvP) competitive racing shooter game.
 
 ## Table of Contents
-1.[How To Play](#howToPlay)
-2.[Prerequisites](#prerequisites)
-3.[License](#license)
+- [Squad Renegades](#squad-renegades)
+  - [Table of Contents](#table-of-contents)
+  - [How to Play](#how-to-play)
+  - [License](#license)
 
 ## How to Play
 Clone the repository:
