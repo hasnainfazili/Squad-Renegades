@@ -1,4 +1,4 @@
-$_{This project will no longer be maintained and will remain in this haphazard format, so if anyone stumbles across this I'm sorry in advance}$
+[^1]This project will no longer be maintained and will remain in this haphazard format, so if anyone stumbles across this I'm sorry in advance
 
 # Squad Renegades
 An Unreal Engine 5 project, a 5v5 Player V/S Player (PvP) competitive racing shooter game.
