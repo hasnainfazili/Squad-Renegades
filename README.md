@@ -2,8 +2,9 @@
 An Unreal Engine 5 project, a 5v5 Player V/S Player (PvP) competitive racing shooter game.
 
 ## Table of Contents
-[How To Play](#howToPlay)
-[License](#license)
+1.[How To Play](#howToPlay)
+2.[Prerequisites](#prerequisites)
+3.[License](#license)
 
 ## How to Play
 Clone the repository:
